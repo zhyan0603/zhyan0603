@@ -4,11 +4,11 @@
 
 I am a PhD Student at **Zhejiang University** and **Westlake University** joint program. I received my Bachelor's degree at the College of Physics Science and Technology, **Yangzhou University** in 2023. My research focuses on <u>*understanding and designing solid-state battery materials*</u>, utilizing first-principles calculations and machine learning molecular dynamics simulations. I have published **13** articles in journals like *Energy Storage Mater.*, *Chem. Mater.*, *Nanoscale Horiz.*, *Small*, *JCIS*, *PCCP*, etc.
 
-<!-- 
+
 <div align="center">
   
 ![Zihan's Stats](https://github-readme-stats.vercel.app/api?username=zhyan0603&show_icons=true&theme=light&hide_border=true&count_private=true&bg_color=ffffff&text_color=333333&icon_color=0078d4)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhyan0603&theme=light&hide_border=true&bg_color=ffffff&text_color=333333&icon_color=0078d4)
 
 </div>
--->
+
